@@ -1,0 +1,8 @@
+{
+  "seed": null,
+  "andProb": 0.2,
+  "orProb": 0.2,
+  "xorProb": 0.2,
+  "notProb": 0.2,
+  "depth": 4
+}
